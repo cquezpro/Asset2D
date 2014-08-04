@@ -1,12 +1,12 @@
 # Asset2SD plugin for Phonegap - v2.0 #
-By Gautam Chaudhary
-
+Original Author: Gautam Chaudhary
+Modified: Sirius
 Phonegap plugin for Android for copying files from app assets to device SD Card.
-Tested with Phonegap versions 3.0.9.
+Tested with Phonegap versions 3.5.0.
 
 ## Adding the Plugin to your project ##
 
-1. To install the plugin, 'cordova plugin add https://github.com/gkcgautam/Asset2SD.git'
+1. To install the plugin, 'cordova plugin add https://github.com/sirius2013/Asset2D.git'
 
 ## Using the plugin ##
 
