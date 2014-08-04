@@ -4,6 +4,7 @@ Modified: Sirius
 Phonegap plugin for Android for copying files from app assets to device SD Card.
 Tested with Phonegap versions 3.5.0.
 
+Modified Content: copyFile  Java function. I tested with this original API, but copyFile failed because destination file was directory instead of file.
 ## Adding the Plugin to your project ##
 
 1. To install the plugin, 'cordova plugin add https://github.com/sirius2013/Asset2D.git'
