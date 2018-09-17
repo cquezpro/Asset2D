@@ -6,7 +6,7 @@
       xmlns:android="http://schemas.android.com/apk/res/android"
       >
     <name>Asset2SD</name>
-    <description>Copy a file or directory from Assets to the SD card</description>
+    <description>Copy a file or directory from Assets to the SD card App</description>
     <license>MIT</license>
     <keywords>cordova,asset2sd,gkcgautam</keywords>
 
