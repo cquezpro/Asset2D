@@ -1,5 +1,5 @@
 # Asset2SD plugin for Phonegap - v3.0 #
-Original Author: Gautam Chaudhary
+Original Author: Sirius2013
 
 
 Modified: Sirius
